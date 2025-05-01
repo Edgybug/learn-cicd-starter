@@ -1,4 +1,4 @@
-https://github.com/Edgybug/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+![CI/CD Learning](https://github.com/Edgybug/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
